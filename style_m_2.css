@@ -1,0 +1,70 @@
+.bg{
+	background: url(img/mobile_bg_2.png);
+	background-size: 100%;
+}
+.insta_post {
+  box-shadow: 0vh 0vh 2.1vh 1.575vh #ffffff47;
+}
+.insta > img {
+  transform: translateX(15.75vh);
+  z-index: 10
+}
+.insta > img:last-child,
+.insta > img:nth-last-child(2) {
+  transform: translateX(0vh);
+}
+.insta_post > img:last-child {
+  transform: translateX(15.75vh);
+  z-index: 0
+}
+.youtube > img:last-child {
+  transform: translateX(15.75vh);
+}
+.insta_post > img:nth-child(1) {
+  position: relative !important;
+}
+.insta_post > img {
+  top: 0;
+}
+.insta_4 {
+left: -36vw;
+width: 166vw;
+top: 9vw;
+}
+html{
+	width: 100% !important;
+	height: 100% !important;
+	position: fixed;
+}
+body{
+	width: 100% !important;
+	height: 100% !important;
+	position: fixed;
+}
+.insta > img:last-child, .insta > img:nth-last-child(2) {
+transform: translateX(-18vw);
+}
+.insta_3{
+z-index: 10000;
+left: -81vw;
+width: 166vw;
+top: 9vw;
+opacity: 0.7;
+}
+html, body{
+	overflow: hidden;
+}
+.insta_post_2 {
+width: 90vw;
+top: 12vw;
+left: 50%;
+transform: translateX(-50%);
+}
+.white{mix-blend-mode: color-burn;
+width: 90vw;
+height: 90vw;
+top: 12vw;
+z-index: 1000000;
+background: linear-gradient(to right, white, rgba(255, 255, 255, 0) 21.85%, rgba(97, 97, 97, 0.07) 91.6%, rgb(184, 184, 184));
+left: 5vw;
+box-shadow: 0 0 15vw rgba(27, 27, 27, 0.26);}

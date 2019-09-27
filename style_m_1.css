@@ -1,0 +1,66 @@
+.bg{
+	background: url(img/mobile_bg_1.png);
+	background-size: 100%;
+}
+.insta_post {
+  box-shadow: 0vh 0vh 2.1vh 1.575vh #ffffff47;
+}
+.insta > img {
+  transform: translateX(15.75vh);
+  z-index: 10
+}
+.insta > img:last-child,
+.insta > img:nth-last-child(2) {
+  transform: translateX(0vh);
+}
+.insta_post > img:last-child {
+  transform: translateX(15.75vh);
+  z-index: 0
+}
+.youtube > img:last-child {
+  transform: translateX(15.75vh);
+}
+.insta_post > img:nth-child(1) {
+  position: relative !important;
+}
+.insta_post > img {
+  top: 0;
+}
+.insta_4 {
+left: -36vw;
+width: 166vw;
+top: 9vw;
+}
+html{
+	width: 100% !important;
+	height: 100% !important;
+	position: fixed;
+}
+body{
+	width: 100% !important;
+	height: 100% !important;
+	position: fixed;
+}
+.insta > img:last-child, .insta > img:nth-last-child(2) {
+transform: translateX(-18vw);
+}
+.insta_3{
+z-index: 10000;
+left: -81vw;
+width: 166vw;
+top: 9vw;
+opacity: 0.7;
+}
+html, body{
+	overflow: hidden;
+}
+.overlaycircle{display: block;
+width: 52vw;
+height: 53vw;
+background: radial-gradient(transparent 63.45%, black 98.32%);
+z-index: 1000000;
+border-radius: 50%;
+top: 25vw;
+left: 2.5vw;}
+.img1{
+filter: contrast(1.2);}
