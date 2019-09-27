@@ -382,18 +382,18 @@ $('.insta_post_6').click(function(){
 	$('body').removeClass('click_insta6_o')
 				},8000);
 })
-if(w/h<(1680/950) || w/h>(1680/900)){
-	$('#black').show()
-}else{
-	$('#black').hide()
-}
-window.onresize = function(event) {
-if(w/h<(1680/950) || w/h>(1680/900)){
-	$('#black').show()
-}else{
-	$('#black').hide()
-}
-};
+// if(w/h<(1680/950) || w/h>(1680/900)){
+// 	$('#black').show()
+// }else{
+// 	$('#black').hide()
+// }
+// window.onresize = function(event) {
+// if(w/h<(1680/950) || w/h>(1680/900)){
+// 	$('#black').show()
+// }else{
+// 	$('#black').hide()
+// }
+// };
 	$(".insta_1").hover(function(){
 		  $('.insta_white_1').removeClass("opacity_0");
 		  }, function(){
