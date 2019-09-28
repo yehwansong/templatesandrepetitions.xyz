@@ -62,5 +62,6 @@ z-index: 1000000;
 border-radius: 50%;
 top: 25vw;
 left: 2.5vw;}
-.img1{
-filter: contrast(1.2);}
+.img1{/*
+filter: contrast(1.2);*/
+}
