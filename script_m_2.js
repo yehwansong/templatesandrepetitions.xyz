@@ -1,4 +1,5 @@
 $( document ).ready(function() {
+	document.location.hash = '';
 
 $("body").bind('touchmove mousemove', function(e){
 
