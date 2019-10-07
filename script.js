@@ -133,7 +133,6 @@ clearTimeout(timeout);
 if(!zooming){
  timeout = setTimeout(function(){
   		screensaver()
-  		zooming = true
   	},1000);
 	}else{
 		$('body').addClass('stop_zooming')
@@ -267,6 +266,7 @@ $("body").mousemove(function(e){
 });
 
 $('.insta_1').click(function(){
+	zooming=true
 	$('body').addClass('fast_tran')
 	$('body').addClass('click_insta_top1_o')
 	$('body').addClass('click_insta_top')
@@ -279,6 +279,7 @@ $('.insta_1').click(function(){
 				},8000);
 })
 $('.insta_2').click(function(){
+	zooming=true
 	$('body').addClass('fast_tran')
 	$('body').addClass('click_insta_top2_o')
 	$('body').addClass('click_insta_top')
@@ -291,6 +292,7 @@ $('.insta_2').click(function(){
 				},8000);
 })
 $('.insta_3').click(function(){
+	zooming=true
 	$('body').addClass('fast_tran')
 	$('body').addClass('click_insta_top3_o')
 	$('body').addClass('click_insta_top')
@@ -303,6 +305,7 @@ $('.insta_3').click(function(){
 				},8000);
 })
 $('.insta_4').click(function(){
+	zooming=true
 	$('body').addClass('fast_tran')
 	$('body').addClass('click_insta_top4_o')
 	$('body').addClass('click_insta_top')
@@ -315,6 +318,7 @@ $('.insta_4').click(function(){
 				},8000);
 })
 $('.insta_5').click(function(){
+	zooming=true
 	$('body').addClass('fast_tran')
 	$('body').addClass('click_insta_top5_o')
 	$('body').addClass('click_insta_top')
@@ -331,6 +335,7 @@ $('.insta_5').click(function(){
 
 
 $('.insta_post_1').click(function(){
+	zooming=true
 	$('body').addClass('fast_tran')
 	$('body').addClass('click_insta1_o')
 	$('body').addClass('click_insta')
@@ -343,6 +348,7 @@ $('.insta_post_1').click(function(){
 				},8000);
 })
 $('.insta_post_2').click(function(){
+	zooming=true
 	$('body').addClass('fast_tran')
 	$('body').addClass('click_insta2_o')
 	$('body').addClass('click_insta')
@@ -355,6 +361,7 @@ $('.insta_post_2').click(function(){
 				},8000);
 })
 $('.insta_post_3').click(function(){
+	zooming=true
 	$('body').addClass('fast_tran')
 	$('body').addClass('click_insta3_o')
 	$('body').addClass('click_insta')
@@ -363,10 +370,12 @@ $('.insta_post_3').click(function(){
 	$('body').removeClass('click_insta')
 			  	},1300);
                 setTimeout(function(){
+		zooming=false
 	$('body').removeClass('click_insta3_o')
 				},8000);
 })
 $('.insta_post_4').click(function(){
+	zooming=true
 	$('body').addClass('fast_tran')
 	$('body').addClass('click_insta4_o')
 	$('body').addClass('click_insta')
@@ -375,10 +384,12 @@ $('.insta_post_4').click(function(){
 	$('body').removeClass('click_insta')
 			  	},1300);
                 setTimeout(function(){
+		zooming=false
 	$('body').removeClass('click_insta4_o')
 				},8000);
 })
 $('.insta_post_5').click(function(){
+	zooming=true
 	$('body').addClass('fast_tran')
 	$('body').addClass('click_insta5_o')
 	$('body').addClass('click_insta')
@@ -387,10 +398,12 @@ $('.insta_post_5').click(function(){
 	$('body').removeClass('click_insta')
 			  	},1300);
                 setTimeout(function(){
+		zooming=false
 	$('body').removeClass('click_insta5_o')
 				},8000);
 })
 $('.insta_post_6').click(function(){
+	zooming=true
 	$('body').addClass('fast_tran')
 	$('body').addClass('click_insta6_o')
 	$('body').addClass('click_insta')
@@ -399,6 +412,7 @@ $('.insta_post_6').click(function(){
 	$('body').removeClass('click_insta')
 			  	},1300);
                 setTimeout(function(){
+		zooming=false
 	$('body').removeClass('click_insta6_o')
 				},8000);
 })
