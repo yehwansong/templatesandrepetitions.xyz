@@ -9,82 +9,19 @@
 	],
 "creatorBuild": "26148",
 "files": {
-	"\/bg\/bg_0.png": {
-		"ft": 32768,
-		"iS": 7847537,
+	"\/CNAME": {
+		"cB": 0,
+		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/bg\/bg_0.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
+		"oAP": "\/CNAME",
+		"oF": 0
 		},
-	"\/bg\/bg_1.png": {
-		"ft": 32768,
-		"iS": 7991151,
+	"\/img\/.tem_4.png.icloud": {
+		"cB": 0,
+		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/bg\/bg_1.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/bg\/bg_2.png": {
-		"ft": 32768,
-		"iS": 7873066,
-		"oA": 0,
-		"oAP": "\/bg\/bg_2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/bg\/bg_3.png": {
-		"ft": 32768,
-		"iS": 7964473,
-		"oA": 0,
-		"oAP": "\/bg\/bg_3.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/bg\/bg_4.png": {
-		"ft": 32768,
-		"iS": 8298119,
-		"oA": 0,
-		"oAP": "\/bg\/bg_4.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/bg\/bg_5.png": {
-		"ft": 32768,
-		"iS": 7574368,
-		"oA": 0,
-		"oAP": "\/bg\/bg_5.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/bg\/bg_6.png": {
-		"ft": 32768,
-		"iS": 8212204,
-		"oA": 0,
-		"oAP": "\/bg\/bg_6.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
+		"oAP": "\/img\/.tem_4.png.icloud",
+		"oF": 0
 		},
 	"\/img\/.tem_5.png.icloud": {
 		"cB": 0,
@@ -159,6 +96,39 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/mobile_bg_1.png": {
+		"ft": 32768,
+		"iS": 107175,
+		"oA": 0,
+		"oAP": "\/img\/mobile_bg_1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/mobile_bg_2.png": {
+		"ft": 32768,
+		"iS": 441450,
+		"oA": 0,
+		"oAP": "\/img\/mobile_bg_2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/mobile_bg_3.png": {
+		"ft": 32768,
+		"iS": 332161,
+		"oA": 0,
+		"oAP": "\/img\/mobile_bg_3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/tem_1.png": {
 		"ft": 32768,
 		"iS": 1802468,
@@ -192,17 +162,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/tem_4.png": {
-		"ft": 32768,
-		"iS": 2674977,
-		"oA": 0,
-		"oAP": "\/img\/tem_4.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/img\/tem_5-01.png": {
 		"ft": 32768,
 		"iS": 132268,
@@ -214,179 +173,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/Untitled1.png": {
-		"ft": 32768,
-		"iS": 832738,
-		"oA": 0,
-		"oAP": "\/img\/Untitled1.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/img\/Untitled3.png": {
-		"ft": 32768,
-		"iS": 738871,
-		"oA": 0,
-		"oAP": "\/img\/Untitled3.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/img\/youtube_1.png": {
-		"ft": 32768,
-		"iS": 832738,
-		"oA": 0,
-		"oAP": "\/img\/youtube_1.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/imgs\/africa_set_1\/img_1.png": {
-		"ft": 32768,
-		"iS": 473525,
-		"oA": 0,
-		"oAP": "\/imgs\/africa_set_1\/img_1.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/imgs\/africa_set_1\/img_10.png": {
-		"ft": 32768,
-		"iS": 275218,
-		"oA": 0,
-		"oAP": "\/imgs\/africa_set_1\/img_10.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/imgs\/africa_set_1\/img_11.png": {
-		"ft": 32768,
-		"iS": 223353,
-		"oA": 0,
-		"oAP": "\/imgs\/africa_set_1\/img_11.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/imgs\/africa_set_1\/img_2.png": {
-		"ft": 32768,
-		"iS": 379844,
-		"oA": 0,
-		"oAP": "\/imgs\/africa_set_1\/img_2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/imgs\/africa_set_1\/img_3.png": {
-		"ft": 32768,
-		"iS": 223916,
-		"oA": 0,
-		"oAP": "\/imgs\/africa_set_1\/img_3.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/imgs\/africa_set_1\/img_4.png": {
-		"ft": 32768,
-		"iS": 279542,
-		"oA": 0,
-		"oAP": "\/imgs\/africa_set_1\/img_4.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/imgs\/africa_set_1\/img_5.png": {
-		"ft": 32768,
-		"iS": 198354,
-		"oA": 0,
-		"oAP": "\/imgs\/africa_set_1\/img_5.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/imgs\/africa_set_1\/img_6.png": {
-		"ft": 32768,
-		"iS": 178197,
-		"oA": 0,
-		"oAP": "\/imgs\/africa_set_1\/img_6.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/imgs\/africa_set_1\/img_7.png": {
-		"ft": 32768,
-		"iS": 147161,
-		"oA": 0,
-		"oAP": "\/imgs\/africa_set_1\/img_7.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/imgs\/africa_set_1\/img_8.png": {
-		"ft": 32768,
-		"iS": 239110,
-		"oA": 0,
-		"oAP": "\/imgs\/africa_set_1\/img_8.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/imgs\/africa_set_1\/img_9.png": {
-		"ft": 32768,
-		"iS": 369306,
-		"oA": 0,
-		"oAP": "\/imgs\/africa_set_1\/img_9.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/index.html",
-		"oF": 0
-		},
-	"\/index_2.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/index_2.html",
-		"oF": 0
-		},
-	"\/index_3.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/index_3.html",
 		"oF": 0
 		},
 	"\/insta_post_set_1\/img_1.png": {
@@ -653,11 +444,187 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/insta_post_set_2_m\/img_1.png": {
+		"ft": 32768,
+		"iS": 432043,
+		"oA": 0,
+		"oAP": "\/insta_post_set_2_m\/img_1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_2_m\/img_10.png": {
+		"ft": 32768,
+		"iS": 539044,
+		"oA": 0,
+		"oAP": "\/insta_post_set_2_m\/img_10.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_2_m\/img_11.png": {
+		"ft": 32768,
+		"iS": 475895,
+		"oA": 0,
+		"oAP": "\/insta_post_set_2_m\/img_11.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_2_m\/img_12.png": {
+		"ft": 32768,
+		"iS": 394533,
+		"oA": 0,
+		"oAP": "\/insta_post_set_2_m\/img_12.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_2_m\/img_13.png": {
+		"ft": 32768,
+		"iS": 199334,
+		"oA": 0,
+		"oAP": "\/insta_post_set_2_m\/img_13.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_2_m\/img_2.png": {
+		"ft": 32768,
+		"iS": 377012,
+		"oA": 0,
+		"oAP": "\/insta_post_set_2_m\/img_2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_2_m\/img_3.png": {
+		"ft": 32768,
+		"iS": 283919,
+		"oA": 0,
+		"oAP": "\/insta_post_set_2_m\/img_3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_2_m\/img_4.png": {
+		"ft": 32768,
+		"iS": 475200,
+		"oA": 0,
+		"oAP": "\/insta_post_set_2_m\/img_4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_2_m\/img_5.png": {
+		"ft": 32768,
+		"iS": 509093,
+		"oA": 0,
+		"oAP": "\/insta_post_set_2_m\/img_5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_2_m\/img_6.png": {
+		"ft": 32768,
+		"iS": 416148,
+		"oA": 0,
+		"oAP": "\/insta_post_set_2_m\/img_6.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_2_m\/img_7.png": {
+		"ft": 32768,
+		"iS": 495368,
+		"oA": 0,
+		"oAP": "\/insta_post_set_2_m\/img_7.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_2_m\/img_8.png": {
+		"ft": 32768,
+		"iS": 495600,
+		"oA": 0,
+		"oAP": "\/insta_post_set_2_m\/img_8.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/insta_post_set_3\/img_1.png": {
 		"ft": 32768,
 		"iS": 432564,
 		"oA": 0,
 		"oAP": "\/insta_post_set_3\/img_1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_3\/img_10.png": {
+		"ft": 32768,
+		"iS": 1039982,
+		"oA": 0,
+		"oAP": "\/insta_post_set_3\/img_10.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_3\/img_11.png": {
+		"ft": 32768,
+		"iS": 888172,
+		"oA": 0,
+		"oAP": "\/insta_post_set_3\/img_11.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_3\/img_12.png": {
+		"ft": 32768,
+		"iS": 481489,
+		"oA": 0,
+		"oAP": "\/insta_post_set_3\/img_12.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_3\/img_13.png": {
+		"ft": 32768,
+		"iS": 840637,
+		"oA": 0,
+		"oAP": "\/insta_post_set_3\/img_13.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -741,44 +708,99 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/insta_post_set_3\/img_9.png": {
+	"\/insta_post_set_3_m\/img_9-10.png": {
 		"ft": 32768,
-		"iS": 803238,
+		"iS": 233209,
 		"oA": 0,
-		"oAP": "\/insta_post_set_3\/img_9.png",
+		"oAP": "\/insta_post_set_3_m\/img_9-10.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/insta_post_set_3\/Untitled-10-14.png": {
+	"\/insta_post_set_3_m\/img_9-3.png": {
 		"ft": 32768,
-		"iS": 759283,
+		"iS": 159814,
 		"oA": 0,
-		"oAP": "\/insta_post_set_3\/Untitled-10-14.png",
+		"oAP": "\/insta_post_set_3_m\/img_9-3.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/insta_post_set_3\/Untitled-10-16.png": {
+	"\/insta_post_set_3_m\/img_9-4.png": {
 		"ft": 32768,
-		"iS": 703358,
+		"iS": 212935,
 		"oA": 0,
-		"oAP": "\/insta_post_set_3\/Untitled-10-16.png",
+		"oAP": "\/insta_post_set_3_m\/img_9-4.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/insta_post_set_3\/Untitled-10-17.png": {
+	"\/insta_post_set_3_m\/img_9-5.png": {
 		"ft": 32768,
-		"iS": 846538,
+		"iS": 314614,
 		"oA": 0,
-		"oAP": "\/insta_post_set_3\/Untitled-10-17.png",
+		"oAP": "\/insta_post_set_3_m\/img_9-5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_3_m\/img_9-6.png": {
+		"ft": 32768,
+		"iS": 283765,
+		"oA": 0,
+		"oAP": "\/insta_post_set_3_m\/img_9-6.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_3_m\/img_9-7.png": {
+		"ft": 32768,
+		"iS": 243598,
+		"oA": 0,
+		"oAP": "\/insta_post_set_3_m\/img_9-7.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_3_m\/img_9-8.png": {
+		"ft": 32768,
+		"iS": 412738,
+		"oA": 0,
+		"oAP": "\/insta_post_set_3_m\/img_9-8.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_3_m\/img_9-9.png": {
+		"ft": 32768,
+		"iS": 358365,
+		"oA": 0,
+		"oAP": "\/insta_post_set_3_m\/img_9-9.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_post_set_3_m\/img_9.png": {
+		"ft": 32768,
+		"iS": 840637,
+		"oA": 0,
+		"oAP": "\/insta_post_set_3_m\/img_9.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -884,6 +906,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/insta_set_1\/img_13.png": {
+		"ft": 32768,
+		"iS": 32042,
+		"oA": 0,
+		"oAP": "\/insta_set_1\/img_13.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/insta_set_1\/img_2.png": {
 		"ft": 32768,
 		"iS": 86187,
@@ -961,16 +994,165 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/insta_set_1\/img_9.png": {
+	"\/insta_set_1_m\/img_1.png": {
 		"ft": 32768,
-		"iS": 92645,
+		"iS": 38781,
 		"oA": 0,
-		"oAP": "\/insta_set_1\/img_9.png",
+		"oAP": "\/insta_set_1_m\/img_1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/insta_set_1_m\/img_10.png": {
+		"ft": 32768,
+		"iS": 40230,
+		"oA": 0,
+		"oAP": "\/insta_set_1_m\/img_10.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_set_1_m\/img_11.png": {
+		"ft": 32768,
+		"iS": 41023,
+		"oA": 0,
+		"oAP": "\/insta_set_1_m\/img_11.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_set_1_m\/img_12.png": {
+		"ft": 32768,
+		"iS": 31526,
+		"oA": 0,
+		"oAP": "\/insta_set_1_m\/img_12.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_set_1_m\/img_13.png": {
+		"ft": 32768,
+		"iS": 32042,
+		"oA": 0,
+		"oAP": "\/insta_set_1_m\/img_13.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_set_1_m\/img_2.png": {
+		"ft": 32768,
+		"iS": 38160,
+		"oA": 0,
+		"oAP": "\/insta_set_1_m\/img_2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_set_1_m\/img_3.png": {
+		"ft": 32768,
+		"iS": 24498,
+		"oA": 0,
+		"oAP": "\/insta_set_1_m\/img_3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_set_1_m\/img_4.png": {
+		"ft": 32768,
+		"iS": 43079,
+		"oA": 0,
+		"oAP": "\/insta_set_1_m\/img_4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_set_1_m\/img_5.png": {
+		"ft": 32768,
+		"iS": 40332,
+		"oA": 0,
+		"oAP": "\/insta_set_1_m\/img_5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_set_1_m\/img_6.png": {
+		"ft": 32768,
+		"iS": 39085,
+		"oA": 0,
+		"oAP": "\/insta_set_1_m\/img_6.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_set_1_m\/img_7.png": {
+		"ft": 32768,
+		"iS": 35513,
+		"oA": 0,
+		"oAP": "\/insta_set_1_m\/img_7.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/insta_set_1_m\/img_8.png": {
+		"ft": 32768,
+		"iS": 44532,
+		"oA": 0,
+		"oAP": "\/insta_set_1_m\/img_8.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/mobile_1.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/mobile_1.html",
+		"oF": 0
+		},
+	"\/mobile_2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/mobile_2.html",
+		"oF": 0
+		},
+	"\/mobile_3.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/mobile_3.html",
+		"oF": 0
+		},
+	"\/original.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/original.html",
+		"oF": 0
 		},
 	"\/script.js": {
 		"ft": 64,
@@ -978,6 +1160,36 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/script-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/script_m_1.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/script_m_1-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/script_m_2.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/script_m_2-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/script_m_3.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/script_m_3-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1015,6 +1227,36 @@
 		"sI": 0,
 		"sM": 0,
 		"sU": 0
+		},
+	"\/style_m_1.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/style_m_1-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/style_m_2.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/style_m_2-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/style_m_3.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/style_m_3-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/youtube_face\/img_1.png": {
 		"ft": 32768,
@@ -1100,6 +1342,13 @@
 		"oAP": "\/youtube_set_1\/.img_5.png.icloud",
 		"oF": 0
 		},
+	"\/youtube_set_1\/.img_6.png.icloud": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/youtube_set_1\/.img_6.png.icloud",
+		"oF": 0
+		},
 	"\/youtube_set_1\/img_1.png": {
 		"ft": 32768,
 		"iS": 1309666,
@@ -1149,17 +1398,6 @@
 		"iS": 1203034,
 		"oA": 0,
 		"oAP": "\/youtube_set_1\/img_4.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/youtube_set_1\/img_6.png": {
-		"ft": 32768,
-		"iS": 3255535,
-		"oA": 0,
-		"oAP": "\/youtube_set_1\/img_6.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1369,6 +1607,17 @@
 		"iS": 2488882,
 		"oA": 0,
 		"oAP": "\/youtube_set_3\/img_10.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/youtube_set_3\/img_11.png": {
+		"ft": 32768,
+		"iS": 360092,
+		"oA": 0,
+		"oAP": "\/youtube_set_3\/img_11.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

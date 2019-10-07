@@ -107,15 +107,10 @@ $(".hovered_button_12").hover(function(){
 	  $('.hovered_button_12').addClass("opacity_0");
 	  $('.hovered_button_1').removeClass("opacity_0");
 });
-document.onmousemove = function(e){
-
-  	clearTimeout(timeout);
-	if(!zooming){
-  	timeout = setTimeout(function(){
-if(w/h<(1680/948) || w/h>(1680/900)){}else{
-
+if(!zooming){
+ timeout = setTimeout(function(){
   		screensaver()
-}
+  		zooming = true
   	},1000);
 	}else{
 		$('body').addClass('stop_zooming')
@@ -130,9 +125,34 @@ if(w/h<(1680/948) || w/h>(1680/900)){}else{
 		$('.insta_post_2 img').removeClass('opacity')
 		$('.insta_post_3 img').removeClass('opacity')
 		setTimeout(function(){$('body').removeClass('stop_zooming');},10);
-		szooming=false
+		zooming=false
+	}
+document.onmousemove = function(e){
+
+clearTimeout(timeout);
+if(!zooming){
+ timeout = setTimeout(function(){
+  		screensaver()
+  		zooming = true
+  	},1000);
+	}else{
+		$('body').addClass('stop_zooming')
+		$('body').removeClass('zooming_1');
+		$('body').removeClass('zooming_2');
+		$('body').removeClass('zooming_3');
+		$('body').removeClass('zooming_1_or');
+		$('body').removeClass('zooming_2_or');
+		$('body').removeClass('zooming_3_or');
+		$('.insta_4 img').removeClass('opacity')
+		$('.insta_3 img').removeClass('opacity')
+		$('.insta_post_2 img').removeClass('opacity')
+		$('.insta_post_3 img').removeClass('opacity')
+		setTimeout(function(){$('body').removeClass('stop_zooming');},10);
+		zooming=false
 	}
 }
+// if(w/h<(1680/948) || w/h>(1680/900)){}else{
+// }
 
 function screensaver(){
 	zooming=true
